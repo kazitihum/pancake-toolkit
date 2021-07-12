@@ -4,6 +4,7 @@ export declare const breakpointMap: {
 };
 export declare const shadows: {
     level1: string;
+    level2: string;
     active: string;
     success: string;
     warning: string;
@@ -17,6 +18,7 @@ declare const _default: {
     spacing: Spacing;
     shadows: {
         level1: string;
+        level2: string;
         active: string;
         success: string;
         warning: string;
